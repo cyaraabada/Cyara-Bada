@@ -1,2 +1,2 @@
-# Cyara-Bada
+# SugarRush
 Sugar Rush - 5to año, 2024
